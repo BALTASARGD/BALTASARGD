@@ -1,4 +1,5 @@
-### Hola! bin Balta 👋
+### Soy Balta 👋
+## Estudiante apasionado en el Universo del desarrollo Web
 
 <!--
 **BALTASARGD/BALTASARGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
