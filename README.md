@@ -1,4 +1,5 @@
-- 👋 Hi there, I'm Balta!  
+- 👋![512](https://github.com/user-attachments/assets/66440a3a-5867-4671-8946-5cf9886d12bd)
+ Hi there, I'm Balta!  
 - 👀 I’m interested in creating innovative and user-friendly web applications.  
 - 🌱 I’m currently learning advanced techniques in modern web development and staying updated with the latest trends in full-stack development.  
 - 💞️ I’m looking to collaborate on exciting web development projects or open-source initiatives where I can contribute with my skills.  
