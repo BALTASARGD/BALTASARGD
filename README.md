@@ -9,7 +9,7 @@
 Here’s a glimpse of the technologies I use:  
 
 - **Programming Languages:** JavaScript (including TypeScript)  
-- **Frontend Development:** HTML5, CSS3, Sass, Bootstrap, TailwindCSS, DaisyUI  
+- **Frontend Development:** HTML5, CSS3, Sass, Bootstrap, TailwindCSS
 - **Version Control:** Git  
 - **Operating System:** Linux  
 
