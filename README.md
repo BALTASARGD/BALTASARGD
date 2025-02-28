@@ -72,5 +72,3 @@
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
-Credit: [username](https://github.com/BALTASARGD)  
-Last Edited on: 6/4/2024
