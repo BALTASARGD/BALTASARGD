@@ -12,36 +12,19 @@
 - 📫 How to reach me: Feel free to connect with me via [LinkedIn](#) or email me at baltakoeln@icloud.com  
 - ⚡ Fun fact: I live in Köln, Germany, and I love blending creativity and code to solve real-world problems!  
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
-  </ul>
-  <!--icons and links-->
-  <p align="left">
-  <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:baltakoeln@icloud.com" target="blank"><img align="center" src="https://github.com/BALTASARGD/BALTASARGD/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="icloud" height="50" width="50" /></a>
-  </p>
-</div>
-
----
 
 <h3>   🛠️ Languages and Tools:</h3>
 
-- 💻  
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+- 💻 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
-- ⚙️  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ⚙️ ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🔧 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
@@ -49,39 +32,45 @@
   ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
+
+  
+<br>
+ 
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## By the way here are some of my statistics 🚀
+![BALTASARGD's github stats](https://github-readme-stats.vercel.app/api?username=BALTASARGD&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BALTASARGD&theme=tokyonight" alt="mystreak"/>
+![BALTASARGD's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALTASARGD&theme=tokyonight&layout=compact)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
----
 
 ### ✨ Visitors
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BALTASARGD" alt="BALTASARGD" /> </p>
 
----
-
-### 📊 Profile stats
-
-[![Balta's github stats](https://github-readme-stats.vercel.app/api?username=BALTASARGD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BALTASARGD/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BALTASARGD&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="baltasargd" /></p>
-
----
-
-### 📊 Profile contribution
-
-> 3D Contrib
-
-<div align="center">
-  <img src="https://github.com/BALTASARGD/BALTASARGD/blob/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
-</div>
-
-> Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
----
-
+<br/>
+ <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com//" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:baltakoeln@icloud.com" >
+  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/">
+    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
 Credit: [username](https://github.com/BALTASARGD)  
 Last Edited on: 6/4/2024
