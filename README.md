@@ -51,25 +51,3 @@
 
 ### ✨ Visitors
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BALTASARGD" alt="BALTASARGD" /> </p>
-
-<br/>
- <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com//" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:baltakoeln@icloud.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
