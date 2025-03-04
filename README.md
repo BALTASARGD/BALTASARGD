@@ -49,5 +49,5 @@
 <br/>
 
 
-### ✨ Visitors
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BALTASARGD" alt="BALTASARGD" /> </p>
 
