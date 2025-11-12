@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I live in Köln, Germany, and I love blending creativity and code to solve real-world problems!  
 
 
-<h3>   🛠️ Languages and Tools:</h3>
+<h3>  🛠️ Languages and Tools:</h3>
 
 - 💻 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
